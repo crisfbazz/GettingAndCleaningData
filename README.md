@@ -25,6 +25,6 @@ File code to generate the analysis:
  * x_total
  * x_total_mean
  
- The first data set have only the mean and the standard deviation measurements of the train and the test sets merged in one, along with the activity labels and subjects of each measurements.
+ The first data set have only the mean and the standard deviation measurements of the training and the test sets merged in one, along with the activity labels and subjects of each measurement.
  
  The second data have a set with the average of each variable for each activity and each subject, from the first data set.
